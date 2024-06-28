@@ -1,0 +1,6 @@
+Y[...]: YObject is the root parent class of all classes that can exist without being attached to another object.
+G[...]: Variables will have this prefix when extended from YGame_Object.
+C[...]: Variables will have this prefix when extended from YComponent.
+T[...]: Simple classes/types that do not extend from RGame_Object or RObject. These usually have few functions and contain mostly variables.
+F[...]: Complex classes/types that do not extend from RGame_Object or RObject. These must have many functions.
+M[...]: miscellaneous files.

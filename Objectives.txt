@@ -1,0 +1,4 @@
+3 enemies and 1 player fight in real time, not turn based.
+Items the enemy and player can both pickup and use to buff themselvess.
+Boxes that have health and when destroyed drop a handfull of items.
+Sprite and animation objects.
